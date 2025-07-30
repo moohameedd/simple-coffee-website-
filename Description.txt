@@ -1,0 +1,15 @@
+Coffee Menu Project - FreeCodeCamp
+
+This is a simple HTML & CSS project for building a styled coffee shop menu. 
+It includes semantic HTML elements such as <header>, <main>, and <section>, 
+and demonstrates the use of class and ID selectors in CSS.
+
+The project is part of FreeCodeCamp's Responsive Web Design certification.
+
+Key Features:
+- Coffee menu layout
+- Custom font and colors
+- Background image styling
+- Responsive structure (basic)
+
+Author: Mohamed Ferchichi
